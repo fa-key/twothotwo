@@ -1,5 +1,5 @@
-NUMBERING IN THIS TXT
-just for trial
+POINT OF TRIAL
+-and hopefully understand
 one
 - one point 
 two
